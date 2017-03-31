@@ -16,7 +16,7 @@ using namespace cv;
 
 
 int main() {
-	string prefix = "src/images/att_faces/";
+	string prefix = "images/att_faces/";
 	string csv_file = prefix + "csv_list.txt";
 
 	

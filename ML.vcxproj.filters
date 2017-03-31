@@ -26,11 +26,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="src\images\att_faces\csv_list.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="src\include\Eigenfaces.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -40,10 +35,5 @@
     <ClInclude Include="src\include\ImageItem.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="src\images\tiny.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
   </ItemGroup>
 </Project>
